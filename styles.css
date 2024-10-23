@@ -245,8 +245,8 @@ img {
     .container {
         max-height: 1400px;
         grid-template-columns: repeat(4, 1fr);
-        grid-template-rows:  repeat(10, 75px);
-        gap: 2rem;
+        grid-template-rows:  repeat(10, 71px);
+        gap: 1.5rem;
     }
 
     .social-media {
